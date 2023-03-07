@@ -110,3 +110,10 @@ nav ul li a{
 .important{
   color: blue;
 }
+#error{
+  color: red;
+}
+#response{
+  color: green;
+  font-weight: bolder;
+}
