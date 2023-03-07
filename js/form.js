@@ -24,12 +24,14 @@ function myFunc() {
   
   if(gender==="male"){
       const name = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
-      document.getElementById("response").innerHTML="Your akan name is: " + name[day];
+      const dayOfWeek =["Sunday","Monday","Tuesday","Wednesday","Thursday" , "Friday", "Saturday"]
+      document.getElementById("response").innerHTML="Your akan name is: " + name[day] + " , because you were born on " + dayOfWeek[day];
       //$("#response").html("Your akan name is: " + name[day]); // Using jquery
 
   }else if(gender==="female"){
       const name = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
-      document.getElementById("response").innerHTML="Your akan name is: " + name[day];
+      const dayOfWeek =["Sunday","Monday","Tuesday","Wednesday","Thursday" , "Friday", "Saturday"]
+      document.getElementById("response").innerHTML="Your akan name is: " + name[day] + " , because you were born on " + dayOfWeek[day];
       //$("#response").html("Your akan name is: " + name[day]); // Using jquery 
   }
 }
