@@ -70,8 +70,9 @@ nav ul li a{
   text-align: center;
 }
 .content h2{
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 100;
+  font-family: 'Times New Roman', Times, serif;
   margin-top: 50px;
   margin-bottom: 20px;
   text-align: center;

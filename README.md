@@ -21,5 +21,5 @@ Dorothy Gichaba
 ## Link to live site on GitHub Pages
 https://dgichaba.github.io/Akan_Names/
 ## Licence Information
-Distributed under the MIT License. See License.txt for more information.
+Distributed under the MIT License. See license.txt for more information.
 
