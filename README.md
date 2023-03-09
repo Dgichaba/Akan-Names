@@ -19,7 +19,7 @@ dorothygichaba@gmail.com
 ## List of contributors 
 Dorothy Gichaba
 ## Link to live site on GitHub Pages
-https://dgichaba.github.io/Akan_Names/
+https://dgichaba.github.io/Akan-Names/
 ## Licence Information
 Distributed under the MIT License. See License.txt for more information.
 
